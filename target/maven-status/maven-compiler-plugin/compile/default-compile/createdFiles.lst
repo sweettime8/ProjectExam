@@ -1,0 +1,6 @@
+com\mrd\App.class
+com\mrd\repository\UserRepository.class
+com\mrd\controller\UserController.class
+com\mrd\controller\AuthController.class
+com\mrd\model\User.class
+com\mrd\repository\UserRepositoryCustom.class
